@@ -1,39 +1,39 @@
 {
   "stories": [
     {
-      "idStory": 1,
+      "id": 1,
       "name": "Rapunzel",
       "avatar": "https://www.quever.news/u/fotografias/m/2022/6/15/f638x638-31488_89655_4739.jpg"
     },
     {
-      "idStory": 2,
+      "id": 2,
       "name": "Mérida",
       "avatar": "https://i.pinimg.com/originals/2d/05/0b/2d050bccc1543ed6c981103122c030e2.jpg"
     },
     {
-      "idStory": 3,
+      "id": 3,
       "name": "Vanellope",
       "avatar": "https://cdn.milenio.com/uploads/media/2018/11/06/ralph-el-demoledor-foto-especial_551_54_1052_655.jpg"
     },
     {
-      "idStory": 4,
+      "id": 4,
       "name": "Tiana",
       "avatar": "https://http2.mlstatic.com/D_NQ_NP_837000-MLM27194718111_042018-O.webp"
     },
     {
-      "idStory": 5,
+      "id": 5,
       "name": "Moana",
       "avatar": "https://static.wikia.nocookie.net/disney/images/f/f5/Moana.jpg"
     },
     {
-      "idStory": 6,
+      "id": 6,
       "name": "Anna y Elsa",
       "avatar": "https://i.pinimg.com/originals/44/a3/f2/44a3f20bf6fc59363ba6840dd816aead.jpg"
     }
   ],
   "cards": [
     {
-      "idCard": 1,
+      "id": 1,
       "avatar": "https://i.pinimg.com/originals/44/a3/f2/44a3f20bf6fc59363ba6840dd816aead.jpg",
       "name": "Anna y Elsa",
       "publication": "https://w0.peakpx.com/wallpaper/890/382/HD-wallpaper-olaf-s-frozen-adventure-2017-anna-luminos-movie-elsa-iarna-winter-fantasy-trio-olafs-frozen-adventure-princess-pink-disney-blue.jpg",
@@ -44,7 +44,7 @@
       "textPublication": "Disfrutando el verano con Olaf"
     },
     {
-      "idCard": 2,
+      "id": 2,
       "avatar": "https://static.wikia.nocookie.net/disney/images/f/f5/Moana.jpg",
       "name": "Moana",
       "publication": "https://lumiere-a.akamaihd.net/v1/images/image_9d8d6488.png",
@@ -55,7 +55,7 @@
       "textPublication": "Contándole un secreto a mi Maui"
     },
     {
-      "idCard": 3,
+      "id": 3,
       "avatar": "https://http2.mlstatic.com/D_NQ_NP_837000-MLM27194718111_042018-O.webp",
       "name": "Tiana",
       "publication": "https://epicland.com.mx/cdn/shop/articles/C_-EKPoV0AAv11z.jpg?v=1613585795&width=1400",
@@ -66,7 +66,7 @@
       "textPublication": "  #tbt recordando buenos tiempos"
     },
     {
-      "idCard": 4,
+      "id": 4,
       "avatar": "https://i.pinimg.com/originals/2d/05/0b/2d050bccc1543ed6c981103122c030e2.jpg",
       "name": "Mérida",
       "publication": "https://dankev.com.mx/wp-content/uploads/2021/09/Hermanos-Merida.jpg",
